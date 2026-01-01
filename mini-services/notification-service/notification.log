@@ -1,0 +1,6 @@
+$ bun --hot index.ts
+✅ ZAI SDK initialized for notification service
+🚀 Notification service running on port 3003
+📊 Health check available at http://localhost:3003/health
+🔌 Socket.IO ready for connections
+📋 Status server running on port 3004
